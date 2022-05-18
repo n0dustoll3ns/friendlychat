@@ -29,8 +29,9 @@ img {
   max-width: 100%;
 }
 
-h1 {
-  a {
-    color: red;
-  }
-}
+// theme colors
+$primary: #326dee !default;
+$secondary: #1ac886 !default;
+$error: #d32752 !default;
+$info: #f6c31c !default;
+
